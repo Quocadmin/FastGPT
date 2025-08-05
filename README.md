@@ -217,3 +217,94 @@ https://github.com/labring/FastGPT/assets/15308462/7d3a38df-eb0e-4388-9250-2409b
 2. 未经商业授权，任何形式的商用服务均需保留相关版权信息。
 3. 完整请查看 [FastGPT Open Source License](./LICENSE)
 4. 联系方式：Dennis@sealos.io，[点击查看商业版定价策略](https://doc.fastgpt.io/docs/introduction/commercial/)
+
+
+1. FastGPT là gì?
+FastGPT là một nền tảng mã nguồn mở giúp bạn tạo ra các AI Agent, chatbot, hoặc ứng dụng AI tự động hóa mà không cần biết lập trình phức tạp.
+
+Nó giúp bạn kéo-thả (flow) để xây dựng các luồng xử lý dữ liệu và hội thoại AI, phù hợp từ cá nhân, doanh nghiệp nhỏ cho tới đội nhóm lớn, muốn ứng dụng AI vào quy trình làm việc thực tế.
+
+2. FastGPT dành cho ai?
+Người mới: Dùng AI chat, xây dựng bot hỏi đáp từ tài liệu cá nhân, upload file PDF, tài liệu Word, website, v.v.
+
+Công ty, tổ chức: Xây dựng trợ lý ảo, tư vấn khách hàng, tự động hóa công việc (RPA) mà không cần thuê developer riêng.
+
+Lập trình viên: Dễ dàng phát triển tính năng mở rộng, tích hợp API, làm plugin hoặc tự quản lý dữ liệu AI.
+
+3. Tính năng nổi bật
+🌟 Xây dựng workflow AI bằng Flow (kéo-thả)
+Dùng giao diện trực quan, kéo-thả các khối chức năng (node) để xử lý hội thoại, dữ liệu, plugin, tích hợp với nhiều nguồn khác nhau.
+
+Hỗ trợ workflow phức tạp, đa bước, tự động hóa xử lý dữ liệu, chat, trả lời khách hàng.
+
+🏪 Hỗ trợ kiến thức đa dạng, tích hợp RAG
+Dễ dàng upload và quản lý kiến thức cá nhân: PDF, Word, PowerPoint, Excel, file txt, md, html, CSV, url trang web,...
+
+Dùng RAG (Retrieval-Augmented Generation): AI không chỉ dựa vào kiến thức chung mà còn lấy thông tin từ tài liệu bạn cung cấp.
+
+Mix nhiều nguồn tri thức cùng lúc, hỗ trợ tra cứu đa nguồn.
+
+🤖 Hỗ trợ đa mô hình AI và tích hợp API
+Gọi các model mạnh nhất hiện nay: GPT-3.5/4, Claude, Wenxin, Azure, OpenRouter... tùy chọn cấu hình, chuyển đổi linh hoạt.
+
+Có thể tích hợp và tự phát triển plugin, API nội bộ.
+
+Tích hợp với các dịch vụ lưu trữ dữ liệu (MongoDB, PostgreSQL, Milvus...)
+
+🛠️ Dành cho phát triển & mở rộng
+Có OpenAPI để kết nối với hệ thống bên ngoài hoặc tích hợp với sản phẩm, website khác.
+
+Cho phép debug, ghi log chi tiết, quản lý version, kiểm thử ứng dụng AI dễ dàng.
+
+Có sẵn template marketplace – kho mẫu bot, workflow dùng lại.
+
+🗣️ Hỗ trợ nhập/xuất giọng nói
+Có thể nói chuyện trực tiếp với AI bằng giọng nói hoặc cho AI trả lời bằng âm thanh (text-to-speech, speech-to-text).
+
+🖥️ Chạy online hoặc tự host
+Có thể dùng bản online tại fastgpt.io – chỉ cần đăng ký tài khoản, không cần server.
+
+Hoặc deploy riêng trên cloud, Docker, Sealos... tự quản lý hoàn toàn dữ liệu.
+
+4. Ứng dụng thực tế
+Bot hỏi đáp tài liệu nội bộ, tài liệu công ty (hỏi chính sách, tài liệu hướng dẫn, quy trình...)
+
+Tự động hóa quy trình kinh doanh: Kết nối với CRM, ERP, trả lời tự động theo luồng.
+
+Tư vấn khách hàng đa kênh: nhúng vào web, iframe, chia sẻ link, lưu nhật ký chat...
+
+Nâng cấp trợ lý AI cá nhân: học và trả lời dựa trên dữ liệu riêng, không lo lộ thông tin.
+
+5. Cách sử dụng, triển khai nhanh
+Dùng online: Truy cập https://fastgpt.io/ để thử ngay, không cần cài đặt.
+
+Tự triển khai:
+
+Dùng dịch vụ Sealos (đơn giản, không cần server riêng).
+
+Hoặc tự cài đặt trên máy bằng Docker, Next.js, cấu hình database theo hướng dẫn.
+
+Xem hướng dẫn chi tiết tại đây
+
+6. Lý do nên chọn FastGPT?
+Cực kỳ dễ dùng, không cần code phức tạp, kéo-thả xây workflow, tự động hóa công việc với AI.
+
+Miễn phí, mã nguồn mở, bạn làm chủ hoàn toàn dữ liệu và tính năng.
+
+Cộng đồng mạnh, hỗ trợ tốt, có nhiều video hướng dẫn chi tiết (bảo mẫu).
+
+Tích hợp tốt với các nền tảng AI hiện đại và dịch vụ lưu trữ lớn.
+
+Hỗ trợ phát triển, mở rộng, có sẵn plugin, OpenAPI, template.
+
+7. Các tài nguyên hữu ích
+Tài liệu chính thức
+
+Video hướng dẫn siêu dễ
+
+Nhóm chat cộng đồng (Feishu)
+
+Các dự án liên quan & plugin mở rộng
+
+Tóm lại
+FastGPT là nền tảng kéo-thả để xây dựng chatbot, agent AI thông minh, dễ dùng, đa năng, dùng online hoặc tự host, hỗ trợ tích hợp tài liệu, workflow, API, phù hợp cho cả người mới và dân kỹ thuật.
